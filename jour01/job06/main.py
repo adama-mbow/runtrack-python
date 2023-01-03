@@ -1,2 +1,2 @@
-ma_string = je suis uneString
-print(num1 + num2)
+ma_string = "je suis uneString"
+print(ma_string)
